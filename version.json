@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.1",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.1/linkedin-combined-assistant-v1.0.1.zip",
-    "notes":  "合并资料生成和资料修改，增加改 IP / 代理入口，并支持自动同步更新。"
+    "version":  "1.0.2",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.2/linkedin-combined-assistant-v1.0.2.zip",
+    "notes":  "修复其他电脑创建桌面快捷方式时中文路径乱码导致找不到程序的问题。"
 }
