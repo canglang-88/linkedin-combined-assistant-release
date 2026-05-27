@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.3",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.3/linkedin-combined-assistant-v1.0.3.zip",
-    "notes":  "同步合并前生成助手规则，并补回修改助手完整 Codex 执行规则。"
+    "version":  "1.0.4",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.4/linkedin-combined-assistant-v1.0.4.zip",
+    "notes":  "优化自动更新下载窗口，增加下载进度显示和失败提示，减少更新时未响应。"
 }
