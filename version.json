@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.7/linkedin-combined-assistant-v1.0.7.zip",
-  "notes": "补充修改资料时先核对再保存：每页或每个弹窗填写完成后必须先对照 TXT 检查无误，再点击保存。"
+  "version": "1.0.8",
+  "url": "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.8/linkedin-combined-assistant-v1.0.8.zip",
+  "notes": "增加程序单实例启动保护：已经打开时再次双击不会重复打开，会尝试切换到已打开窗口。"
 }
