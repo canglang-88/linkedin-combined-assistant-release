@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.11/linkedin-combined-assistant-v1.0.11.zip",
-    "version":  "1.0.11",
-    "notes":  "修复桌面快捷方式图标黑角问题，改用透明多尺寸 ICO；快捷方式优先使用程序目录 icon.ico；保留联网核验公司/学校与生成截断修复。"
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.12/linkedin-combined-assistant-v1.0.12.zip",
+    "version":  "1.0.12",
+    "notes":  "优化 LinkedIn 下拉菜单匹配规则：公司、学校、证书机构按标准化主体名称识别同一真实实体，支持地理位置后缀、公司/学校类型后缀、括号、标点、缩写差异，并优先选择带官方图标或 logo 的匹配项。"
 }
