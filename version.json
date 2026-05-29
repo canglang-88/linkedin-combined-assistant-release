@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.13/linkedin-combined-assistant-v1.0.13.zip",
-    "version":  "1.0.13",
-    "notes":  "强化 LinkedIn 下拉菜单选择流程：输入后等待下拉加载，5 秒内至少检查 3 次，遍历可见候选项，完全一致优先，标准化匹配其次，同实体相似匹配再次；首次失败会清空重输并重试，两轮失败后才使用纯文本。"
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.14/linkedin-combined-assistant-v1.0.14.zip",
+    "version":  "1.0.14",
+    "notes":  "修复发帖失败时剪贴板为空的问题：生成帖子后先复制完整帖子并确认剪贴板，再尝试录入 LinkedIn 发帖框；失败时保留剪贴板内容，方便手动粘贴。"
 }
