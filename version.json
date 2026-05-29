@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.12/linkedin-combined-assistant-v1.0.12.zip",
-    "version":  "1.0.12",
-    "notes":  "优化 LinkedIn 下拉菜单匹配规则：公司、学校、证书机构按标准化主体名称识别同一真实实体，支持地理位置后缀、公司/学校类型后缀、括号、标点、缩写差异，并优先选择带官方图标或 logo 的匹配项。"
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v1.0.13/linkedin-combined-assistant-v1.0.13.zip",
+    "version":  "1.0.13",
+    "notes":  "强化 LinkedIn 下拉菜单选择流程：输入后等待下拉加载，5 秒内至少检查 3 次，遍历可见候选项，完全一致优先，标准化匹配其次，同实体相似匹配再次；首次失败会清空重输并重试，两轮失败后才使用纯文本。"
 }
