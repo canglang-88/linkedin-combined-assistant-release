@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.1",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.1/linkedin-combined-assistant-v2.0.1.zip",
-    "notes":  "2.0.1 WebView 改造版：替换旧合并助手；增强 LinkedIn 新旧界面、中文/英文删除确认、技能入口、技能角色绑定和详情页刷新延迟兼容。已轮跑验证 2/3/5 窗口 Skills 流程。"
+    "version":  "2.0.2",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.2/linkedin-combined-assistant-v2.0.2.zip",
+    "notes":  "2.0.2：生成资料改为限时深度验证，90 秒内深度校验成功则锁定真实实体生成；超时自动降级为一次联网生成；API 错误和超时会直接显示，不再卡在 Generating profile。"
 }
