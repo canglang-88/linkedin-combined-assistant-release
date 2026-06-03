@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.5",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.5/linkedin-combined-assistant-v2.0.5.zip",
-    "notes":  "2.0.5：提高实体验证计划和分段资料生成输出上限；修复验证计划自身触发 max_output_tokens 时仍显示失败的问题，改为自动降级到分板块联网生成。"
+    "version":  "2.0.6",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.6/linkedin-combined-assistant-v2.0.6.zip",
+    "notes":  "2.0.6：给每个资料生成板块加入单独限时；Experience 联网生成过慢时自动切换快速模式，避免一直停在 Generating experience。"
 }
