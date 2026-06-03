@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.3",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.3/linkedin-combined-assistant-v2.0.3.zip",
-    "notes":  "2.0.3：修复资料生成达到 max_output_tokens 后失败的问题；现在会保留已生成内容并自动续写剩余资料，同时加入长度控制，避免深度资料卡在 Generating profile。"
+    "version":  "2.0.4",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.4/linkedin-combined-assistant-v2.0.4.zip",
+    "notes":  "2.0.4：资料生成改为分板块生成并合并，避免大资料在整篇输出时反复触发 max_output_tokens；保留实体验证和自动续写。"
 }
