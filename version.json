@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.7",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.7/linkedin-combined-assistant-v2.0.7.zip",
-    "notes":  "2.0.7：恢复默认快速真实资料生成模式，不再默认执行联网实体计划；保留真实公司/学校内部验证规则和输出续写，生成速度回到接近旧版。"
+    "version":  "2.0.8",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.8/linkedin-combined-assistant-v2.0.8.zip",
+    "notes":  "2.0.8：快速真实模式默认直接分板块生成，不再先发起整篇大请求，避免停在 Using fast real-entity generation。"
 }
