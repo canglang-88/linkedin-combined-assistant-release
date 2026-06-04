@@ -1,5 +1,5 @@
 {
-    "version":  "2.1.0",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.1.0/linkedin-combined-assistant-v2.1.0.zip",
-    "notes":  "2.1.0：资料生成改为顺序联网核实。工作经历逐条联网核实并生成，学校逐条联网核实并生成，右侧实时显示核实进度，最后合并成完整资料。"
+    "version":  "2.1.1",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.1.1/linkedin-combined-assistant-v2.1.1.zip",
+    "notes":  "2.1.1：真正按单条保存资料。每个工作/学校生成后立即保存到右侧草稿；单条联网超时会自动备用搜索、无联网紧凑生成或安全草稿，不再让整份资料失败。"
 }
