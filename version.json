@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.8",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.0.8/linkedin-combined-assistant-v2.0.8.zip",
-    "notes":  "2.0.8：快速真实模式默认直接分板块生成，不再先发起整篇大请求，避免停在 Using fast real-entity generation。"
+    "version":  "2.1.0",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.1.0/linkedin-combined-assistant-v2.1.0.zip",
+    "notes":  "2.1.0：资料生成改为顺序联网核实。工作经历逐条联网核实并生成，学校逐条联网核实并生成，右侧实时显示核实进度，最后合并成完整资料。"
 }
