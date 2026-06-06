@@ -1,5 +1,5 @@
 {
-    "version":  "2.1.1",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.1.1/linkedin-combined-assistant-v2.1.1.zip",
-    "notes":  "2.1.1：真正按单条保存资料。每个工作/学校生成后立即保存到右侧草稿；单条联网超时会自动备用搜索、无联网紧凑生成或安全草稿，不再让整份资料失败。"
+    "version":  "2.1.21",
+    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.1.21/linkedin-combined-assistant-v2.1.21.zip",
+    "notes":  "2.1.21：轻联网验证公司池/学校池；恢复合并前职位匹配逻辑；修复同公司连续任职、换公司间隔 3-6 个月；修复新加坡等教育地区和未选择学校时间时自动补日期；发帖先保存 TXT/配图再发布。"
 }
