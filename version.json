@@ -1,5 +1,1 @@
-{
-    "version":  "2.1.21",
-    "url":  "https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.1.21/linkedin-combined-assistant-v2.1.21.zip",
-    "notes":  "2.1.21：轻联网验证公司池/学校池；恢复合并前职位匹配逻辑；修复同公司连续任职、换公司间隔 3-6 个月；修复新加坡等教育地区和未选择学校时间时自动补日期；发帖先保存 TXT/配图再发布。"
-}
+{"version":"2.1.22","url":"https://github.com/canglang-88/linkedin-combined-assistant-release/releases/download/v2.1.22/linkedin-combined-assistant-v2.1.22.zip","notes":"2.1.22：修复改资料时证书、课程、组织、荣誉区块把描述误识别为单独条目的问题；技能区块改为按逗号/换行拆分，避免整串技能被当成一个技能；同步本机已验证的窗口环境切换、删除缓存、发帖保存与资料修改稳定性修复。","updatedAt":"2026-06-06T16:16:51Z"}
